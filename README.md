@@ -6,8 +6,8 @@ You can access this webpage through the following link: https://random-generator
 
 ## Screenshots
 
-### Game Start Page
-![App Screenshot](https://github.com/youssef-gerges-ramzy-mokhtar/Rock-Paper-Scissors/blob/main/screenshots/start%20state.png?raw=true)
+### Start Page
+![App Screenshot](https://github.com/youssef-gerges-ramzy-mokhtar/Random-Generator/blob/main/Screenshots/1.png?raw=true)
 
-### Game in Action
-![App Screenshot](https://github.com/youssef-gerges-ramzy-mokhtar/Rock-Paper-Scissors/blob/main/screenshots/game%20in%20action.png?raw=true)
+### Random Generator in Action
+![App Screenshot](https://github.com/youssef-gerges-ramzy-mokhtar/Random-Generator/blob/main/Screenshots/2.png?raw=true)
